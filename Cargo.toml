@@ -1,8 +1,8 @@
 [package]
-name = "nightcomes-server"
+name = "THE-server"
 version = "0.1.0"
-authors = ["Adil Basar <descrout@gmail.com>"]
-edition = "2018"
+authors = ["Mustafa Ertürk <fakeEmail@gmail.com>"]
+edition = "1999"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
